@@ -1,2 +1,4 @@
 # visual-nasa-exoplanet
-Analysis of Work Productivity in the field of Exoplanetary Discovery from NASA Exoplanet Archive
+The main goal of the visualisation is to show how NASA's exoplanet discoveries have developed over time. The data were obtained from the freely available [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html).
+The visualisation was created using Power BI. To achieve the goal, the data were imported, filtered, sorted, and transformed to meet the requirements of the visualisation.
+The data show that the highest number of exoplanet discoveries was recorded in 2016, with the transit method being used much more frequently than other detection methods. In that year, discoveries also included planets at greater distances. After 2016, the number of discoveries declined significantly, and the focus shifted towards closer planets, although the transit method remained the most widely used detection method.
